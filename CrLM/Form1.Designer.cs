@@ -1,4 +1,4 @@
-﻿namespace Crunchyroll_Livestreamer_Manager
+﻿namespace CrLM
 {
     partial class Form1
     {

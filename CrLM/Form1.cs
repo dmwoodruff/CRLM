@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Crunchyroll_Livestreamer_Manager
+namespace CrLM
 {
     public partial class Form1 : Form
     {
